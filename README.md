@@ -3,7 +3,7 @@
 #One
 #Alura
 #Jacquline Oliveira
-Desafio criado para o curso Java meu primeiro projeto.
+
 
 # Crie as seguintes operações:
 ## 1- Consultar o saldo.
